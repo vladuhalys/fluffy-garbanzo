@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQG1Rz9oAit2_w/profile-displaybackgroundimage-shrink_350_1400/0/1687769061066?e=1698883200&v=beta&t=eMvoX7gvyRs6e-aZviJ4M6XhUUqEAbpGogBKHKdfPro" alt="header"/>
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="header"/>
 <h1 align="center">🖥️ Software Developer</h1>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="pinguin"/>
