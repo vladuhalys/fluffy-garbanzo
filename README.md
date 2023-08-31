@@ -26,8 +26,6 @@ Looking forward to connecting with fellow developers, creators, and curious mind
 
 
 
-# 🔥 Github Stats
-<img align="right" src="https://media.giphy.com/media/Q61LJj43H48z1FIK4X/giphy-downsized-large.gif"/>
-
-  <a href="https://github.com/vladuhalys"><img width="50%"  src="https://github-readme-stats.vercel.app/api?username=vladuhalys&theme=one_dark_pro&show_icons=true&locale=en" alt="vladuhalys"></a>
-  <a href="https://github.com/vladuhalys"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vladuhalys&theme=one_dark_pro&show_icons=true" alt="vladuhalys" ></a>
+## 🔥 Github Stats
+<a href="https://github.com/vladuhalys" ><img width="50%"  src="https://github-readme-stats.vercel.app/api?username=vladuhalys&theme=one_dark_pro&show_icons=true&locale=en" alt="vladuhalys"></a>
+<a href="https://github.com/vladuhalys"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vladuhalys&theme=one_dark_pro&show_icons=true" alt="vladuhalys" ></a>
