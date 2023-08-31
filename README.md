@@ -1,9 +1,9 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="pinguin"/>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdn141.picsart.com/6d388ba7-d241-480c-a80f-ef40e87a0180/380313946043201.jpg?to=crop&type=webp&r=1456x1456&q=85)" alt="pinguin"/>
 
 <h1 align="center">👋 Hello, World! I'm Vladyslav</h3>
 <h3 align="center">Software Developer</h3>
 
-<img align="right" src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="400" alt="pinguin"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="pinguin"/>
 
 Based in Ukraine 🌍
 
