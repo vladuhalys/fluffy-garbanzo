@@ -1,4 +1,4 @@
-<img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code.jpg" alt="header"/>
+<img src="https://media.licdn.com/dms/image/D4E16AQG1Rz9oAit2_w/profile-displaybackgroundimage-shrink_350_1400/0/1687769061066?e=1698883200&v=beta&t=eMvoX7gvyRs6e-aZviJ4M6XhUUqEAbpGogBKHKdfPro" alt="header"/>
 <h3 align="center">Software Developer</h3>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="pinguin"/>
