@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/14/af/9f/14af9f9f9bbdc71ed44a2e7949cb898b.jpg" width="1920" alt="header"/>
+<img src="https://e7.pngegg.com/pngimages/567/267/png-clipart-types-and-programming-languages-computer-programming-programmer-programming-language-text-computer.png" width="1920" alt="header"/>
 <h3 align="center">Software Developer</h3>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="pinguin"/>
