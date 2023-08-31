@@ -1,4 +1,4 @@
-<img src="https://preview.redd.it/vgdzmpgijc131.jpg?width=960&crop=smart&auto=webp&s=c8b30217330a1e7dacdc19e6afa7ff5d64a99bfd" style='height: 300; width: 100%; object-fit: contain' alt="header"/>
+<img src="https://preview.redd.it/vgdzmpgijc131.jpg?width=960&crop=smart&auto=webp&s=c8b30217330a1e7dacdc19e6afa7ff5d64a99bfd" style='width: 100%; object-fit: contain' alt="header"/>
 <h3 align="center">Software Developer</h3>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="pinguin"/>
