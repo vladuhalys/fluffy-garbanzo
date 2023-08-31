@@ -25,6 +25,6 @@ Looking forward to connecting with fellow developers, creators, and curious mind
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vladuhalys&theme=one_dark_pro&show_icons=true&locale=en&layout=compact" alt="vladuhalys" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vladuhalys&theme=one_dark_pro&show_icons=true&locale=en" alt="vladuhalys" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vladuhalys&theme=one_dark_pro&show_icons=true&locale=en" alt="vladuhalys" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vladuhalys&theme=one_dark_pro&show_icons=true" alt="vladuhalys" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vladuhalys&theme=one_dark_pro&show_icons=true" alt="vladuhalys" /></p>
