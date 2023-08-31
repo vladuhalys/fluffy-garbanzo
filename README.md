@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="pinguin"/>
+
 <h1 align="center">👋 Hello, World! I'm Vladyslav</h3>
 <h3 align="center">Software Developer</h3>
 
