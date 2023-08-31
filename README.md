@@ -1,4 +1,4 @@
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdn141.picsart.com/6d388ba7-d241-480c-a80f-ef40e87a0180/380313946043201.jpg?to=crop&type=webp&r=1456x1456&q=85)" alt="pinguin"/>
+<img src="https://cdn141.picsart.com/6d388ba7-d241-480c-a80f-ef40e87a0180/380313946043201.jpg?to=crop&type=webp&r=1456x1456&q=85" alt="header"/>
 
 <h1 align="center">👋 Hello, World! I'm Vladyslav</h3>
 <h3 align="center">Software Developer</h3>
